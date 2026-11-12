@@ -13,6 +13,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Konekin">
+        <activity android:name=".UserDetailActivity" />
+        <activity android:name=".FormUserActivity" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
